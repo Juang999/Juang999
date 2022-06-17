@@ -34,6 +34,5 @@
 <img alt="trello" title="trello" height="35" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"> <img alt="help_me" title="help_me" height="35" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
 </p> </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juang999&show_icons=true&locale=en&layout=compact" alt="juang999" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juang999&show_icons=true&locale=en" alt="juang999" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juang999&show_icons=true&locale=en&layout=compact" alt="juang999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juang999&show_icons=true&locale=en" alt="juang999" /></p>

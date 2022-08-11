@@ -36,3 +36,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juang999&show_icons=true&locale=en&layout=compact" alt="juang999" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juang999&show_icons=true&locale=en" alt="juang999" /> </p>
 
+<p>This is my Best Project: </p>
+<ul>
+  <li><a href="https://github.com/Juang999/Excee-Academy-Server.git">Backend for Excee-Academy</a>. Build with laravel (ongoing)</li>
+  <li><a href="https://github.com/Juang999/Heimdall.git">Heimdall {Warehouse Management System}</a>. Build with laravel (ongoing)</li>
+  <li><a href="https://github.com/Juang999/mini-project-c.git">Borneo {E-Commerce System}</a>. Build with laravel (Done)</li>
+  <li><a href="https://github.com/Juang999/pos-project.git">Point Of Sales</a>. Build with laravel (Done)</li>
+  <li><a href="https://github.com/Juang999/TakingPO.git">TakingPO {Pre-Order System}</a>. Build with laravel (ongoing)</li>
+  <li><a href="https://github.com/Juang999/trash_bag.git">Trash-Bag</a>. Build with laravel (Done)</li>
+</ul>

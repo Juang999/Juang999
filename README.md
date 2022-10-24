@@ -44,4 +44,5 @@
   <li><a href="https://github.com/Juang999/pos-project.git">Point Of Sales</a>. Build with laravel (Done)</li>
   <li><a href="https://github.com/Juang999/TakingPO.git">TakingPO {Pre-Order System}</a>. Build with laravel (ongoing)</li>
   <li><a href="https://github.com/Juang999/trash_bag.git">Trash-Bag</a>. Build with laravel (Done)</li>
+  <li><a href="https://github.com/Juang999/MyBlog.git">MyBlog</a>. Build with laravel (Done)</li>
 </ul>

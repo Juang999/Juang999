@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juang999</h1>
+<h1 align="center">Hi 👋, I'm Bangkit Juang Raharjo</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 <img align="right" alt="kobo" width="400" src="https://c.tenor.com/woY-G8ICu-UAAAAC/kobo-kanaeru-hai.gif">
 

@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Juang999](https://github.com/Juang999)
 
-- 💬 Ask me about **Laravel, MySQL**
+- 💬 Ask me about **Laravel, Expressjs, Sequelize, MySQL**
 
-- 📫 How to reach me **juangraharjo03@gmail.com**
+- 📫 How to reach me **bangkitjuangraharjo@gmail.com**
 
 - ⚡ Fun fact **I'm friendly**
 

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mutif**
 
-- 🌱 I’m currently learning **Laravel advance**
+- 🌱 I’m currently learning **Laravel advance** & **Expressjs + Sequelize**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Juang999](https://github.com/Juang999)
 

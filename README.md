@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello my name is Bangkit Juang Raharjo, my friends call me Juang, I'm currently working in mutif as a Backend Developer
+Hello my name is Bangkit Juang Raharjo, my friends call me Juang, I'm currently working at mutif as a Backend Developer. with more than one year of experience, I have worked on several projects which you can see below, I am also very enthusiastic in the IT world, especially in the Backend field, I also enjoy working in a team, problem solving, and learning new things
+
+
 
 
 ## 🌐 Socials:
